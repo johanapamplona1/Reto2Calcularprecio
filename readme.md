@@ -1,0 +1,1 @@
+Hola, este es mi reto individual  de calcular precio desarrollado con el condicional if.
